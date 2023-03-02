@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
  
 [![Twitter Follow](https://img.shields.io/twitter/follow/SanketSZ?style=social)](https://twitter.com/SanketSZ)
 [![GitHub followers](https://img.shields.io/github/followers/sanket1105?style=social)](https://github.com/sanket1105)
+[![Kaggle followers](https://img.shields.io/kaggle/followers/shankii_z?style=social)](https://www.kaggle.com/sanketsz)
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
