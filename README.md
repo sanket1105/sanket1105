@@ -1,74 +1,93 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3ODMzMjgzOWNlYjY4ZjM2ZDU2ZGYzYzFhZjY3NmFiYTUzYjJlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/gist/TheAdich/a1bf403c5f0c6cc559b41c95a1e113c3/raw/f64e09f98387f5040f6155a5a47b0a443a050848/AI-brain.gif" width="250"/>
+
+  # Sanket Zanwar | AI & ML Engineer
+  ### 🤖 Transforming Data into Intelligence 🧠
+
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-zanwar/)
+  [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sanketsz)
+  [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SanketSZ)
   
-  # Hi, I'm Sanket Zanwar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/sanket-zanwar/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-    <a href="https://twitter.com/SanketSZ"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
-    <a href="https://www.kaggle.com/sanketsz"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"></a>
-  </p>
+  ![Profile Views](https://komarev.com/ghpvc/?username=sanket1105&color=blueviolet&style=flat-square)
 </div>
-
----
-
-### 👨‍💻 About Me :
-
-I'm a Data Scientist and ML Engineer based in New York 🗽
-
-- 🎓 Currently pursuing Masters in Data Science at Stevens Institute of Technology
-- 🔭 Working on Machine Learning, Deep Learning, and NLP projects
-- 🌱 Exploring Web3.0 and AI applications in healthcare & finance
-- 💡 Open to collaborating on innovative ML projects
-- ⚡ Fun fact: I love connecting with people and learning about their journeys - it helps me gain new perspectives!
-
----
-
-### 🛠 Tech Stack
-
-<details>
-<summary>Click to expand!</summary>
-
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-#### ML/DL Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-#### Big Data
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache%20spark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache%20hadoop&logoColor=black)
-
-#### Visualization
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-#### Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-</details>
-
----
-
-### 📫 Connect with me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/sanket-zanwar/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/Sanketsz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="mailto:sanketz1128@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shankiiz_/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  
+### 🎯 Building the Future with AI
+
 </div>
+
+---
+
+### 🤖 Expertise Areas
+
+<details>
+<summary>🧠 Machine Learning & AI</summary>
+
+- **Large Language Models (LLMs)**
+  - Transformer Architectures
+  - Prompt Engineering
+  - RAG (Retrieval Augmented Generation)
+  - Fine-tuning & PEFT
+
+- **Deep Learning**
+  - Neural Network Architecture Design
+  - Computer Vision Applications
+  - Natural Language Processing
+  - Transfer Learning
+</details>
+
+<details>
+<summary>⚡ Core Technologies</summary>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-2C2C2C?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+</details>
+
+<details>
+<summary>🛠️ Data Engineering</summary>
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-%2366CCFF.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+</details>
+
+---
+
+### 🚀 Current Focus
+
+- 🔭 Exploring **Large Language Models** and their applications in healthcare
+- 🌱 Building **GenAI applications** with RAG and fine-tuning
+- 💡 Implementing **MLOps** practices for production ML systems
+- 🤝 Open to collaborate on innovative **AI/ML projects**
+
+---
+
+### 📫 Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sanket-zanwar/">
+    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="LinkedIn"/>
+  </a>
+  <a href="mailto:sanketz1128@gmail.com">
+    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email"/>
+  </a>
+  <a href="https://twitter.com/SanketSZ">
+    <img src="https://img.icons8.com/bubbles/50/000000/twitter.png" title="Twitter"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
+
+> "In the era of AI, it's not just about coding – it's about creating intelligence that enhances human potential." 🤖✨
