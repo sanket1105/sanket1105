@@ -8,13 +8,6 @@
     <a href="https://twitter.com/SanketSZ"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
     <a href="https://www.kaggle.com/sanketsz"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"></a>
   </p>
-  
-  <p align="center">
-    <a href="https://github.com/sanket1105?tab=followers">
-      <img src="https://img.shields.io/github/followers/sanket1105?label=Followers&style=social" alt="GitHub Badge">
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=sanket1105&style=flat-square&color=blue" alt="Profile Views"/>
-  </p>
 </div>
 
 ---
@@ -62,34 +55,6 @@ I'm a Data Scientist and ML Engineer based in New York 🗽
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </details>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  
-![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanket1105&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanket1105&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanket1105&layout=compact&theme=radical)
-
-</div>
-
----
-
-### 🎯 Latest Projects
-
-<!-- You can add your pinned repositories here -->
-<div align="center">
-<a href="https://github.com/sanket1105/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanket1105&repo=project1&theme=radical" />
-</a>
-<a href="https://github.com/sanket1105/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanket1105&repo=project2&theme=radical" />
-</a>
-</div>
 
 ---
 
