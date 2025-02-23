@@ -87,11 +87,7 @@
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanket1105/sanket1105/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanket1105/sanket1105/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sanket1105/sanket1105/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
 > "In the era of AI, it's not just about coding – it's about creating intelligence that enhances human potential." 🤖✨
