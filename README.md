@@ -62,9 +62,12 @@ Transfer Learning </details>
 
 ### 🚀 Current Focus
 
-🔭 Exploring Large Language Models and their applications in healthcare
+🔭 Exploring Large Language Models and their applications!
+
 🌱 Building GenAI applications with RAG and fine-tuning
+
 💡 Implementing MLOps practices for production ML systems
+
 🤝 Open to collaborate on innovative AI/ML projects
 ---
 
