@@ -1,94 +1,67 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/TheAdich/a1bf403c5f0c6cc559b41c95a1e113c3/raw/f64e09f98387f5040f6155a5a47b0a443a050848/AI-brain.gif" width="250"/>
+  <!-- F1 Logo + AI Brain -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Logo_Formula_1.svg" width="120" alt="F1 Logo"/>
+  <img src="https://raw.githubusercontent.com/gist/TheAdich/a1bf403c5f0c6cc559b41c95a1e113c3/raw/f64e09f98387f5040f6155a5a47b0a443a050848/AI-brain.gif" width="200" alt="AI Brain"/>
 
-  # Sanket Zanwar | AI & ML Engineer
-  ### 🤖 Transforming Data into Intelligence 🧠
+  # 🏁 Sanket “The Paddock” Zanwar | AI & ML Engineer 🏎️  
+  ### ⏱️ Transforming Data into Intelligence at Race Pace ⏁
 
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-zanwar/)
-  [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sanketsz)
-  [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SanketSZ)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanket-zanwar/)  
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/sanketsz)  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/SanketSZ)  
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=sanket1105&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=sanket1105&color=white&style=flat-square)  
+  ![Checkered Flag](https://img.shields.io/badge/🏁-Race%20Day-000?style=flat-square)
 </div>
 
 ---
 
 <div align="center">
-
-### 🎯 Building the Future with AI
-
+### 🎯 Racing Towards the Future of AI
 </div>
 
 ---
 
-### 🤖 Expertise Areas
+## 🏎️ Skills & Pit Crew
 
 <details>
-<summary>🧠 Machine Learning & AI</summary>
+<summary>🛠️ Engineering the Car (Tech Stack)</summary>
 
-Large Language Models (LLMs)
-Transformer Architectures
-Prompt Engineering
-RAG (Retrieval Augmented Generation)
-Fine-tuning & PEFT
-
-Deep Learning
-Neural Network Architecture Design
-Computer Vision Applications
-Natural Language Processing
-Transfer Learning </details>
-
-<details>
-<summary>⚡ Core Technologies</summary>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-2C2C2C?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+- **LLMs & AI**: Transformers, RAG, PEFT, Prompt Engineering  
+- **Deep Learning**: PyTorch, TensorFlow, scikit-learn  
+- **MLOps**: MLflow, Docker, Kubernetes  
+- **Data Engineering**: Spark, Hadoop, PostgreSQL, MongoDB  
 </details>
 
 <details>
-<summary>🛠️ Data Engineering</summary>
+<summary>🧑‍🔧 Race Craft (Expertise)</summary>
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-%2366CCFF.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- Model Architecture & Tuning  
+- Computer Vision & NLP  
+- Real-time Inference Pipelines  
+- Performance Optimization  
 </details>
 
 ---
 
-### 🚀 Current Focus
+## 🔧 Under the Hood
 
-🔭 Exploring Large Language Models and their applications!
+- 🚀 **Current Focus**: Building GenAI apps with RAG & fine-tuning  
+- 🔄 **Training Regimen**: Implementing MLOps best practices  
+- 🤝 **Pit Stops**: Open to collaborate on AI/ML projects  
 
-🌱 Building GenAI applications with RAG and fine-tuning
-
-💡 Implementing MLOps practices for production ML systems
-
-🤝 Open to collaborate on innovative AI/ML projects
 ---
 
-### 📫 Let's Connect!
+## 📞 Pit Lane Communication
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sanket-zanwar/">
-    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="LinkedIn"/>
-  </a>
-  <a href="mailto:sanketz1128@gmail.com">
-    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email"/>
-  </a>
-  <a href="https://twitter.com/SanketSZ">
-    <img src="https://img.icons8.com/bubbles/50/000000/twitter.png" title="Twitter"/>
-  </a>
+  <a href="https://www.linkedin.com/in/sanket-zanwar/"><img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:sanketz1128@gmail.com"><img src="https://img.icons8.com/ios-filled/30/000000/new-post.png" alt="Email"/></a>
+  <a href="https://twitter.com/SanketSZ"><img src="https://img.icons8.com/ios-filled/30/000000/twitter.png" alt="Twitter"/></a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  ![Contribution Track](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 </div>
-
-"In the era of AI, it's not just about coding – it's about creating intelligence that enhances human potential." 🤖✨
