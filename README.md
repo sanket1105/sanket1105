@@ -1,4 +1,4 @@
-change rhis git readme code to formula 1 style: <div align="center">
+ <div align="center">
   <img src="https://raw.githubusercontent.com/gist/TheAdich/a1bf403c5f0c6cc559b41c95a1e113c3/raw/f64e09f98387f5040f6155a5a47b0a443a050848/AI-brain.gif" width="250"/>
 
   # Sanket Zanwar | AI & ML Engineer
